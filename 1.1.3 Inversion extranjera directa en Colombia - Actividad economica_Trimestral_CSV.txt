@@ -1,0 +1,1244 @@
+Año(aaaa)-Trimestre(t)	Orden de la actividad económica	Actividad económica	Valor
+1996-1	1	Sector petrolero	249,3202416
+1996-1	3	Agricultura, caza, silvicultura y pesca	3,33826145
+1996-1	4	Explotación de minas y canteras (incluye carbón)	21,36410783
+1996-1	5	Industrias manufactureras	91,37076361
+1996-1	6	Electricidad, gas y agua	53,80610194
+1996-1	7	Construcción	-2,27011027
+1996-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	-2,642235947
+1996-1	9	Transportes, almacenamiento y comunicaciones	15,53874492
+1996-1	10	Servicios financieros y empresariales ³	107,649
+1996-1	11	Servicios comunales sociales y personales	2,403304933
+1996-1	13	Total actividades económicas	539,8781801
+1996-2	1	Sector petrolero	125,3926218
+1996-2	3	Agricultura, caza, silvicultura y pesca	4,945295612
+1996-2	4	Explotación de minas y canteras (incluye carbón)	18,68558299
+1996-2	5	Industrias manufactureras	114,5823894
+1996-2	6	Electricidad, gas y agua	73,92289238
+1996-2	7	Construcción	-0,368006244
+1996-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	2,582240942
+1996-2	9	Transportes, almacenamiento y comunicaciones	19,7090695
+1996-2	10	Servicios financieros y empresariales ³	128,6465527
+1996-2	11	Servicios comunales sociales y personales	2,994612847
+1996-2	13	Total actividades económicas	491,0932519
+1996-3	1	Sector petrolero	155,7755783
+1996-3	3	Agricultura, caza, silvicultura y pesca	16,21403171
+1996-3	4	Explotación de minas y canteras (incluye carbón)	-0,522821951
+1996-3	5	Industrias manufactureras	274,6810105
+1996-3	6	Electricidad, gas y agua	214,0549974
+1996-3	7	Construcción	12,81280212
+1996-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	37,95953311
+1996-3	9	Transportes, almacenamiento y comunicaciones	48,71269365
+1996-3	10	Servicios financieros y empresariales ³	274,0756631
+1996-3	11	Servicios comunales sociales y personales	7,057460476
+1996-3	13	Total actividades económicas	1040,820948
+1996-4	1	Sector petrolero	247,8096323
+1996-4	3	Agricultura, caza, silvicultura y pesca	12,16549251
+1996-4	4	Explotación de minas y canteras (incluye carbón)	11,65224586
+1996-4	5	Industrias manufactureras	250,1297607
+1996-4	6	Electricidad, gas y agua	175,2105661
+1996-4	7	Construcción	10,01991325
+1996-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	40,80833749
+1996-4	9	Transportes, almacenamiento y comunicaciones	41,25279666
+1996-4	10	Servicios financieros y empresariales ³	244,204707
+1996-4	11	Servicios comunales sociales y personales	6,630757534
+1996-4	13	Total actividades económicas	1039,884209
+1997-1	1	Sector petrolero	114,301975
+1997-1	3	Agricultura, caza, silvicultura y pesca	1,240475195
+1997-1	4	Explotación de minas y canteras (incluye carbón)	51,19437345
+1997-1	5	Industrias manufactureras	135,7944398
+1997-1	6	Electricidad, gas y agua	518,5416987
+1997-1	7	Construcción	24,56790984
+1997-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	14,5587981
+1997-1	9	Transportes, almacenamiento y comunicaciones	6,97719939
+1997-1	10	Servicios financieros y empresariales ³	240,1908792
+1997-1	11	Servicios comunales sociales y personales	7,184702718
+1997-1	13	Total actividades económicas	1114,552451
+1997-2	1	Sector petrolero	156,3223671
+1997-2	3	Agricultura, caza, silvicultura y pesca	1,527282732
+1997-2	4	Explotación de minas y canteras (incluye carbón)	58,1125636
+1997-2	5	Industrias manufactureras	100,1726454
+1997-2	6	Electricidad, gas y agua	593,3716784
+1997-2	7	Construcción	26,47110004
+1997-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	16,93804512
+1997-2	9	Transportes, almacenamiento y comunicaciones	3,232565749
+1997-2	10	Servicios financieros y empresariales ³	225,6389051
+1997-2	11	Servicios comunales sociales y personales	7,58531389
+1997-2	13	Total actividades económicas	1189,372467
+1997-3	1	Sector petrolero	103,9074229
+1997-3	3	Agricultura, caza, silvicultura y pesca	3,769529896
+1997-3	4	Explotación de minas y canteras (incluye carbón)	88,12523996
+1997-3	5	Industrias manufactureras	127,2181826
+1997-3	6	Electricidad, gas y agua	856,2970433
+1997-3	7	Construcción	34,23254532
+1997-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	36,88853066
+1997-3	9	Transportes, almacenamiento y comunicaciones	13,18211073
+1997-3	10	Servicios financieros y empresariales ³	284,3146149
+1997-3	11	Servicios comunales sociales y personales	10,35796118
+1997-3	13	Total actividades económicas	1558,293182
+1997-4	1	Sector petrolero	7,627212493
+1997-4	3	Agricultura, caza, silvicultura y pesca	5,012397657
+1997-4	4	Explotación de minas y canteras (incluye carbón)	104,1128728
+1997-4	5	Industrias manufactureras	150,4370228
+1997-4	6	Electricidad, gas y agua	993,3619517
+1997-4	7	Construcción	38,34301357
+1997-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	47,98334135
+1997-4	9	Transportes, almacenamiento y comunicaciones	19,75337018
+1997-4	10	Servicios financieros y empresariales ³	321,4819274
+1997-4	11	Servicios comunales sociales y personales	11,88515167
+1997-4	13	Total actividades económicas	1699,998262
+1998-1	1	Sector petrolero	50,87937465
+1998-1	3	Agricultura, caza, silvicultura y pesca	2,726537777
+1998-1	4	Explotación de minas y canteras (incluye carbón)	-2,388583166
+1998-1	5	Industrias manufactureras	123,9715024
+1998-1	6	Electricidad, gas y agua	18,38397264
+1998-1	7	Construcción	-16,73555132
+1998-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	32,42543001
+1998-1	9	Transportes, almacenamiento y comunicaciones	240,1126669
+1998-1	10	Servicios financieros y empresariales ³	191,5245974
+1998-1	11	Servicios comunales sociales y personales	24,34216585
+1998-1	13	Total actividades económicas	665,2421132
+1998-2	1	Sector petrolero	57,97410437
+1998-2	3	Agricultura, caza, silvicultura y pesca	6,235824097
+1998-2	4	Explotación de minas y canteras (incluye carbón)	-6,19489269
+1998-2	5	Industrias manufactureras	121,2439554
+1998-2	6	Electricidad, gas y agua	57,50405424
+1998-2	7	Construcción	-13,3244849
+1998-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	71,65765034
+1998-2	9	Transportes, almacenamiento y comunicaciones	-47,15579755
+1998-2	10	Servicios financieros y empresariales ³	116,9844089
+1998-2	11	Servicios comunales sociales y personales	34,88395714
+1998-2	13	Total actividades económicas	399,8087794
+1998-3	1	Sector petrolero	53,68767375
+1998-3	3	Agricultura, caza, silvicultura y pesca	11,85913576
+1998-3	4	Explotación de minas y canteras (incluye carbón)	2,76266064
+1998-3	5	Industrias manufactureras	232,7344369
+1998-3	6	Electricidad, gas y agua	187,73468
+1998-3	7	Construcción	-13,34402343
+1998-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	39,17729017
+1998-3	9	Transportes, almacenamiento y comunicaciones	21,76914046
+1998-3	10	Servicios financieros y empresariales ³	238,6648869
+1998-3	11	Servicios comunales sociales y personales	67,2107465
+1998-3	13	Total actividades económicas	842,2566277
+1998-4	1	Sector petrolero	-71,04114677
+1998-4	3	Agricultura, caza, silvicultura y pesca	2,80398734
+1998-4	4	Explotación de minas y canteras (incluye carbón)	-0,549196965
+1998-4	5	Industrias manufactureras	306,9797093
+1998-4	6	Electricidad, gas y agua	408,6735675
+1998-4	7	Construcción	-8,564279404
+1998-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	48,14667157
+1998-4	9	Transportes, almacenamiento y comunicaciones	48,57798894
+1998-4	10	Servicios financieros y empresariales ³	118,0579395
+1998-4	11	Servicios comunales sociales y personales	68,43350023
+1998-4	13	Total actividades económicas	921,5187413
+1999-1	1	Sector petrolero	95,80454821
+1999-1	3	Agricultura, caza, silvicultura y pesca	9,869636614
+1999-1	4	Explotación de minas y canteras (incluye carbón)	120,0298005
+1999-1	5	Industrias manufactureras	76,62566369
+1999-1	6	Electricidad, gas y agua	16,32524605
+1999-1	7	Construcción	14,00213776
+1999-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	18,11950317
+1999-1	9	Transportes, almacenamiento y comunicaciones	33,86214427
+1999-1	10	Servicios financieros y empresariales ³	96,96808944
+1999-1	11	Servicios comunales sociales y personales	23,45788918
+1999-1	13	Total actividades económicas	505,0646589
+1999-2	1	Sector petrolero	-76,60620789
+1999-2	3	Agricultura, caza, silvicultura y pesca	5,599301844
+1999-2	4	Explotación de minas y canteras (incluye carbón)	110,2335509
+1999-2	5	Industrias manufactureras	249,445579
+1999-2	6	Electricidad, gas y agua	0,558910169
+1999-2	7	Construcción	0,195003517
+1999-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	30,91386799
+1999-2	9	Transportes, almacenamiento y comunicaciones	37,23885077
+1999-2	10	Servicios financieros y empresariales ³	121,0762148
+1999-2	11	Servicios comunales sociales y personales	31,47864887
+1999-2	13	Total actividades económicas	510,13372
+1999-3	1	Sector petrolero	-266,3110676
+1999-3	3	Agricultura, caza, silvicultura y pesca	8,455483912
+1999-3	4	Explotación de minas y canteras (incluye carbón)	114,4563049
+1999-3	5	Industrias manufactureras	80,37402553
+1999-3	6	Electricidad, gas y agua	-195,8013274
+1999-3	7	Construcción	-7,429439652
+1999-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	251,9417347
+1999-3	9	Transportes, almacenamiento y comunicaciones	32,80004824
+1999-3	10	Servicios financieros y empresariales ³	175,1698615
+1999-3	11	Servicios comunales sociales y personales	26,97488699
+1999-3	13	Total actividades económicas	220,6305111
+1999-4	1	Sector petrolero	-263,9001146
+1999-4	3	Agricultura, caza, silvicultura y pesca	6,51110477
+1999-4	4	Explotación de minas y canteras (incluye carbón)	119,4193342
+1999-4	5	Industrias manufactureras	98,91504541
+1999-4	6	Electricidad, gas y agua	-127,0551376
+1999-4	7	Construcción	-7,88653387
+1999-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	32,79811124
+1999-4	9	Transportes, almacenamiento y comunicaciones	85,24411785
+1999-4	10	Servicios financieros y empresariales ³	280,997041
+1999-4	11	Servicios comunales sociales y personales	47,03527214
+1999-4	13	Total actividades económicas	272,0782405
+2000-1	1	Sector petrolero	-91,66985988
+2000-1	3	Agricultura, caza, silvicultura y pesca	-0,989882291
+2000-1	4	Explotación de minas y canteras (incluye carbón)	75,72153932
+2000-1	5	Industrias manufactureras	120,9788791
+2000-1	6	Electricidad, gas y agua	25,8924708
+2000-1	7	Construcción	-1,936990487
+2000-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	0,982283445
+2000-1	9	Transportes, almacenamiento y comunicaciones	66,25541098
+2000-1	10	Servicios financieros y empresariales ³	184,803384
+2000-1	11	Servicios comunales sociales y personales	7,752660036
+2000-1	13	Total actividades económicas	387,789895
+2000-2	1	Sector petrolero	-37,43465564
+2000-2	3	Agricultura, caza, silvicultura y pesca	0,324527903
+2000-2	4	Explotación de minas y canteras (incluye carbón)	90,35654669
+2000-2	5	Industrias manufactureras	138,215613
+2000-2	6	Electricidad, gas y agua	-40,07759411
+2000-2	7	Construcción	-7,573841282
+2000-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	-5,596359873
+2000-2	9	Transportes, almacenamiento y comunicaciones	357,0428477
+2000-2	10	Servicios financieros y empresariales ³	75,05390818
+2000-2	11	Servicios comunales sociales y personales	31,04578167
+2000-2	13	Total actividades económicas	601,3567742
+2000-3	1	Sector petrolero	-138,989992
+2000-3	3	Agricultura, caza, silvicultura y pesca	1,834141639
+2000-3	4	Explotación de minas y canteras (incluye carbón)	5,435998026
+2000-3	5	Industrias manufactureras	211,475956
+2000-3	6	Electricidad, gas y agua	17,88560177
+2000-3	7	Construcción	-0,445686759
+2000-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	3,016650325
+2000-3	9	Transportes, almacenamiento y comunicaciones	238,8500028
+2000-3	10	Servicios financieros y empresariales ³	417,1625478
+2000-3	11	Servicios comunales sociales y personales	16,85371922
+2000-3	13	Total actividades económicas	773,0789388
+2000-4	1	Sector petrolero	-115,8238308
+2000-4	3	Agricultura, caza, silvicultura y pesca	-1,573419551
+2000-4	4	Explotación de minas y canteras (incluye carbón)	335,2144114
+2000-4	5	Industrias manufactureras	85,11573838
+2000-4	6	Electricidad, gas y agua	9,486787735
+2000-4	7	Construcción	-11,07050319
+2000-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	11,34702444
+2000-4	9	Transportes, almacenamiento y comunicaciones	214,2213236
+2000-4	10	Servicios financieros y empresariales ³	115,4618408
+2000-4	11	Servicios comunales sociales y personales	31,8549425
+2000-4	13	Total actividades económicas	674,2343154
+2001-1	1	Sector petrolero	91,74664664
+2001-1	3	Agricultura, caza, silvicultura y pesca	-0,441009627
+2001-1	4	Explotación de minas y canteras (incluye carbón)	110,2024559
+2001-1	5	Industrias manufactureras	62,3806041
+2001-1	6	Electricidad, gas y agua	2,4439865
+2001-1	7	Construcción	17,72282835
+2001-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	21,73132093
+2001-1	9	Transportes, almacenamiento y comunicaciones	104,5080059
+2001-1	10	Servicios financieros y empresariales ³	140,0410228
+2001-1	11	Servicios comunales sociales y personales	4,079502713
+2001-1	13	Total actividades económicas	554,4153641
+2001-2	1	Sector petrolero	326,4017234
+2001-2	3	Agricultura, caza, silvicultura y pesca	0,012186769
+2001-2	4	Explotación de minas y canteras (incluye carbón)	140,4355322
+2001-2	5	Industrias manufactureras	56,39428063
+2001-2	6	Electricidad, gas y agua	104,5265085
+2001-2	7	Construcción	23,26622751
+2001-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	33,07486408
+2001-2	9	Transportes, almacenamiento y comunicaciones	181,9222661
+2001-2	10	Servicios financieros y empresariales ³	172,6113091
+2001-2	11	Servicios comunales sociales y personales	3,092566731
+2001-2	13	Total actividades económicas	1041,737465
+2001-3	1	Sector petrolero	-2,473306992
+2001-3	3	Agricultura, caza, silvicultura y pesca	6,675367492
+2001-3	4	Explotación de minas y canteras (incluye carbón)	127,6899251
+2001-3	5	Industrias manufactureras	75,59934831
+2001-3	6	Electricidad, gas y agua	-268,4187675
+2001-3	7	Construcción	21,89722539
+2001-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	127,2534654
+2001-3	9	Transportes, almacenamiento y comunicaciones	39,18420531
+2001-3	10	Servicios financieros y empresariales ³	110,0751596
+2001-3	11	Servicios comunales sociales y personales	-3,471091989
+2001-3	13	Total actividades económicas	234,0115301
+2001-4	1	Sector petrolero	105,097768
+2001-4	3	Agricultura, caza, silvicultura y pesca	6,213461005
+2001-4	4	Explotación de minas y canteras (incluye carbón)	145,3560993
+2001-4	5	Industrias manufactureras	66,85507136
+2001-4	6	Electricidad, gas y agua	90,6588345
+2001-4	7	Construcción	20,8783189
+2001-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	22,58327723
+2001-4	9	Transportes, almacenamiento y comunicaciones	90,10533226
+2001-4	10	Servicios financieros y empresariales ³	137,5828272
+2001-4	11	Servicios comunales sociales y personales	26,44726317
+2001-4	13	Total actividades económicas	711,778253
+2002-1	1	Sector petrolero	227,3750109
+2002-1	3	Agricultura, caza, silvicultura y pesca	-0,023112014
+2002-1	4	Explotación de minas y canteras (incluye carbón)	96,5918779
+2002-1	5	Industrias manufactureras	54,07679603
+2002-1	6	Electricidad, gas y agua	68,51645922
+2002-1	7	Construcción	-2,669074695
+2002-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	-1,67546105
+2002-1	9	Transportes, almacenamiento y comunicaciones	370,3323389
+2002-1	10	Servicios financieros y empresariales ³	82,43120755
+2002-1	11	Servicios comunales sociales y personales	14,05854716
+2002-1	13	Total actividades económicas	909,0145899
+2002-2	1	Sector petrolero	205,8575929
+2002-2	3	Agricultura, caza, silvicultura y pesca	-5,755643886
+2002-2	4	Explotación de minas y canteras (incluye carbón)	123,6122928
+2002-2	5	Industrias manufactureras	100,341675
+2002-2	6	Electricidad, gas y agua	35,21723187
+2002-2	7	Construcción	2,328466353
+2002-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	52,57004481
+2002-2	9	Transportes, almacenamiento y comunicaciones	-8,078758775
+2002-2	10	Servicios financieros y empresariales ³	86,05767472
+2002-2	11	Servicios comunales sociales y personales	9,514956427
+2002-2	13	Total actividades económicas	601,6655323
+2002-3	1	Sector petrolero	-19,3908499
+2002-3	3	Agricultura, caza, silvicultura y pesca	-0,810181023
+2002-3	4	Explotación de minas y canteras (incluye carbón)	105,5166689
+2002-3	5	Industrias manufactureras	56,52824033
+2002-3	6	Electricidad, gas y agua	17,54100565
+2002-3	7	Construcción	-2,806463761
+2002-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	29,11877074
+2002-3	9	Transportes, almacenamiento y comunicaciones	-13,01529085
+2002-3	10	Servicios financieros y empresariales ³	10,98922464
+2002-3	11	Servicios comunales sociales y personales	13,49599625
+2002-3	13	Total actividades económicas	197,1671209
+2002-4	1	Sector petrolero	35,29025672
+2002-4	3	Agricultura, caza, silvicultura y pesca	1,518851582
+2002-4	4	Explotación de minas y canteras (incluye carbón)	140,436684
+2002-4	5	Industrias manufactureras	97,17040459
+2002-4	6	Electricidad, gas y agua	13,45820859
+2002-4	7	Construcción	-1,086903612
+2002-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	35,91899443
+2002-4	9	Transportes, almacenamiento y comunicaciones	-3,831188504
+2002-4	10	Servicios financieros y empresariales ³	113,5112334
+2002-4	11	Servicios comunales sociales y personales	-6,535660158
+2002-4	13	Total actividades económicas	425,850881
+2003-1	1	Sector petrolero	20,32133455
+2003-1	3	Agricultura, caza, silvicultura y pesca	1,123224854
+2003-1	4	Explotación de minas y canteras (incluye carbón)	138,0502753
+2003-1	5	Industrias manufactureras	68,50486709
+2003-1	6	Electricidad, gas y agua	19,46019209
+2003-1	7	Construcción	-0,610658448
+2003-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	22,91568901
+2003-1	9	Transportes, almacenamiento y comunicaciones	-4,469245144
+2003-1	10	Servicios financieros y empresariales ³	49,39718011
+2003-1	11	Servicios comunales sociales y personales	4,490997348
+2003-1	13	Total actividades económicas	319,1838567
+2003-2	1	Sector petrolero	131,6331304
+2003-2	3	Agricultura, caza, silvicultura y pesca	2,101738016
+2003-2	4	Explotación de minas y canteras (incluye carbón)	154,1792666
+2003-2	5	Industrias manufactureras	79,17848387
+2003-2	6	Electricidad, gas y agua	9,907199423
+2003-2	7	Construcción	-5,219924007
+2003-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	87,44917631
+2003-2	9	Transportes, almacenamiento y comunicaciones	14,76732823
+2003-2	10	Servicios financieros y empresariales ³	46,99768963
+2003-2	11	Servicios comunales sociales y personales	-1,048386456
+2003-2	13	Total actividades económicas	519,945702
+2003-3	1	Sector petrolero	111,5913512
+2003-3	3	Agricultura, caza, silvicultura y pesca	1,991102541
+2003-3	4	Explotación de minas y canteras (incluye carbón)	155,8070362
+2003-3	5	Industrias manufactureras	82,21528441
+2003-3	6	Electricidad, gas y agua	32,11481995
+2003-3	7	Construcción	-8,653371974
+2003-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	70,26181149
+2003-3	9	Transportes, almacenamiento y comunicaciones	14,89909632
+2003-3	10	Servicios financieros y empresariales ³	74,3669288
+2003-3	11	Servicios comunales sociales y personales	6,386658853
+2003-3	13	Total actividades económicas	540,9807178
+2003-4	1	Sector petrolero	14,39837496
+2003-4	3	Agricultura, caza, silvicultura y pesca	2,766088781
+2003-4	4	Explotación de minas y canteras (incluye carbón)	179,4036826
+2003-4	5	Industrias manufactureras	59,09048697
+2003-4	6	Electricidad, gas y agua	6,67940471
+2003-4	7	Construcción	6,481976653
+2003-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	41,34814784
+2003-4	9	Transportes, almacenamiento y comunicaciones	-72,51639824
+2003-4	10	Servicios financieros y empresariales ³	72,17514908
+2003-4	11	Servicios comunales sociales y personales	30,5562656
+2003-4	13	Total actividades económicas	340,3831789
+2004-1	1	Sector petrolero	71,25357452
+2004-1	3	Agricultura, caza, silvicultura y pesca	-0,156572433
+2004-1	4	Explotación de minas y canteras (incluye carbón)	322,5780927
+2004-1	5	Industrias manufactureras	30,77530358
+2004-1	6	Electricidad, gas y agua	25,61815792
+2004-1	7	Construcción	15,31878249
+2004-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	49,52291881
+2004-1	9	Transportes, almacenamiento y comunicaciones	146,3563516
+2004-1	10	Servicios financieros y empresariales ³	21,51076367
+2004-1	11	Servicios comunales sociales y personales	-1,145388744
+2004-1	13	Total actividades económicas	681,6319841
+2004-2	1	Sector petrolero	195,5562793
+2004-2	3	Agricultura, caza, silvicultura y pesca	3,116270374
+2004-2	4	Explotación de minas y canteras (incluye carbón)	295,9354225
+2004-2	5	Industrias manufactureras	34,05717686
+2004-2	6	Electricidad, gas y agua	21,54841907
+2004-2	7	Construcción	23,29068449
+2004-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	47,84248837
+2004-2	9	Transportes, almacenamiento y comunicaciones	83,71898469
+2004-2	10	Servicios financieros y empresariales ³	40,64498116
+2004-2	11	Servicios comunales sociales y personales	1,804517731
+2004-2	13	Total actividades económicas	747,5152246
+2004-3	1	Sector petrolero	174,5321836
+2004-3	3	Agricultura, caza, silvicultura y pesca	-0,20577142
+2004-3	4	Explotación de minas y canteras (incluye carbón)	341,6962603
+2004-3	5	Industrias manufactureras	72,61587664
+2004-3	6	Electricidad, gas y agua	38,45200028
+2004-3	7	Construcción	18,19424296
+2004-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	52,81729844
+2004-3	9	Transportes, almacenamiento y comunicaciones	119,5716908
+2004-3	10	Servicios financieros y empresariales ³	71,01761241
+2004-3	11	Servicios comunales sociales y personales	-3,186171711
+2004-3	13	Total actividades económicas	885,5052223
+2004-4	1	Sector petrolero	53,51979195
+2004-4	3	Agricultura, caza, silvicultura y pesca	0,546578314
+2004-4	4	Explotación de minas y canteras (incluye carbón)	286,0541209
+2004-4	5	Industrias manufactureras	150,961296
+2004-4	6	Electricidad, gas y agua	2,876706687
+2004-4	7	Construcción	16,70057086
+2004-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	51,8000701
+2004-4	9	Transportes, almacenamiento y comunicaciones	131,6243722
+2004-4	10	Servicios financieros y empresariales ³	110,667642
+2004-4	11	Servicios comunales sociales y personales	-3,767706408
+2004-4	13	Total actividades económicas	800,9834425
+2005-1	1	Sector petrolero	173,4887366
+2005-1	3	Agricultura, caza, silvicultura y pesca	2,627229152
+2005-1	4	Explotación de minas y canteras (incluye carbón)	563,701396
+2005-1	5	Industrias manufactureras	37,77150149
+2005-1	6	Electricidad, gas y agua	9,501709522
+2005-1	7	Construcción	24,55145141
+2005-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	68,15155469
+2005-1	9	Transportes, almacenamiento y comunicaciones	37,42405355
+2005-1	10	Servicios financieros y empresariales ³	-47,37838016
+2005-1	11	Servicios comunales sociales y personales	10,37975455
+2005-1	13	Total actividades económicas	880,2190067
+2005-2	1	Sector petrolero	431,3665902
+2005-2	3	Agricultura, caza, silvicultura y pesca	1,109639933
+2005-2	4	Explotación de minas y canteras (incluye carbón)	529,3178339
+2005-2	5	Industrias manufactureras	403,5540145
+2005-2	6	Electricidad, gas y agua	-34,21771584
+2005-2	7	Construcción	39,252544
+2005-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	83,72413411
+2005-2	9	Transportes, almacenamiento y comunicaciones	10,06307631
+2005-2	10	Servicios financieros y empresariales ³	115,4371899
+2005-2	11	Servicios comunales sociales y personales	20,56974169
+2005-2	13	Total actividades económicas	1600,177049
+2005-3	1	Sector petrolero	270,001828
+2005-3	3	Agricultura, caza, silvicultura y pesca	1,44463675
+2005-3	4	Explotación de minas y canteras (incluye carbón)	519,204405
+2005-3	5	Industrias manufactureras	259,7750879
+2005-3	6	Electricidad, gas y agua	-230,6571125
+2005-3	7	Construcción	43,58419072
+2005-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	72,10811728
+2005-3	9	Transportes, almacenamiento y comunicaciones	17,07570773
+2005-3	10	Servicios financieros y empresariales ³	35,43757973
+2005-3	11	Servicios comunales sociales y personales	-9,176508875
+2005-3	13	Total actividades económicas	978,7979318
+2005-4	1	Sector petrolero	249,7606619
+2005-4	3	Agricultura, caza, silvicultura y pesca	-0,009396663
+2005-4	4	Explotación de minas y canteras (incluye carbón)	539,1728685
+2005-4	5	Industrias manufactureras	4801,193236
+2005-4	6	Electricidad, gas y agua	2,891677005
+2005-4	7	Construcción	42,9377708
+2005-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	75,51183832
+2005-4	9	Transportes, almacenamiento y comunicaciones	960,8985712
+2005-4	10	Servicios financieros y empresariales ³	141,9546115
+2005-4	11	Servicios comunales sociales y personales	-38,08851071
+2005-4	13	Total actividades económicas	6776,223328
+2006-1	1	Sector petrolero	348,1186132
+2006-1	3	Agricultura, caza, silvicultura y pesca	-3,617701637
+2006-1	4	Explotación de minas y canteras (incluye carbón)	433,9336603
+2006-1	5	Industrias manufactureras	189,5027898
+2006-1	6	Electricidad, gas y agua	-5,390120447
+2006-1	7	Construcción	38,2976006
+2006-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	102,7065377
+2006-1	9	Transportes, almacenamiento y comunicaciones	140,455638
+2006-1	10	Servicios financieros y empresariales ³	-28,45347162
+2006-1	11	Servicios comunales sociales y personales	-12,87789173
+2006-1	13	Total actividades económicas	1202,675654
+2006-2	1	Sector petrolero	589,8220923
+2006-2	3	Agricultura, caza, silvicultura y pesca	-1,807878153
+2006-2	4	Explotación de minas y canteras (incluye carbón)	319,9807558
+2006-2	5	Industrias manufactureras	211,6391811
+2006-2	6	Electricidad, gas y agua	-68,81682917
+2006-2	7	Construcción	47,26857757
+2006-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	118,3228689
+2006-2	9	Transportes, almacenamiento y comunicaciones	431,2696309
+2006-2	10	Servicios financieros y empresariales ³	155,8564995
+2006-2	11	Servicios comunales sociales y personales	6,167198096
+2006-2	13	Total actividades económicas	1809,702097
+2006-3	1	Sector petrolero	528,7781965
+2006-3	3	Agricultura, caza, silvicultura y pesca	1,731955938
+2006-3	4	Explotación de minas y canteras (incluye carbón)	487,8571236
+2006-3	5	Industrias manufactureras	236,743698
+2006-3	6	Electricidad, gas y agua	61,42165545
+2006-3	7	Construcción	49,98119635
+2006-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	110,8455391
+2006-3	9	Transportes, almacenamiento y comunicaciones	92,30058156
+2006-3	10	Servicios financieros y empresariales ³	155,2305602
+2006-3	11	Servicios comunales sociales y personales	2,294116506
+2006-3	13	Total actividades económicas	1727,184623
+2006-4	1	Sector petrolero	528,2595373
+2006-4	3	Agricultura, caza, silvicultura y pesca	9,589105206
+2006-4	4	Explotación de minas y canteras (incluye carbón)	554,3707791
+2006-4	5	Industrias manufactureras	177,3011631
+2006-4	6	Electricidad, gas y agua	-54,81384215
+2006-4	7	Construcción	23,18867888
+2006-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	169,0648206
+2006-4	9	Transportes, almacenamiento y comunicaciones	400,7138731
+2006-4	10	Servicios financieros y empresariales ³	195,6833202
+2006-4	11	Servicios comunales sociales y personales	7,70550145
+2006-4	13	Total actividades económicas	2011,062937
+2007-1	1	Sector petrolero	662,6194399
+2007-1	3	Agricultura, caza, silvicultura y pesca	14,15145398
+2007-1	4	Explotación de minas y canteras (incluye carbón)	-1,021570508
+2007-1	5	Industrias manufactureras	841,8270682
+2007-1	6	Electricidad, gas y agua	5,840929816
+2007-1	7	Construcción	48,52084044
+2007-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	245,9193507
+2007-1	9	Transportes, almacenamiento y comunicaciones	52,25113315
+2007-1	10	Servicios financieros y empresariales ³	149,5393372
+2007-1	11	Servicios comunales sociales y personales	6,633722361
+2007-1	13	Total actividades económicas	2026,281705
+2007-2	1	Sector petrolero	1282,184863
+2007-2	3	Agricultura, caza, silvicultura y pesca	3,532951939
+2007-2	4	Explotación de minas y canteras (incluye carbón)	-80,29984105
+2007-2	5	Industrias manufactureras	241,0239349
+2007-2	6	Electricidad, gas y agua	-28,16487582
+2007-2	7	Construcción	62,06539634
+2007-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	274,6085303
+2007-2	9	Transportes, almacenamiento y comunicaciones	60,60317478
+2007-2	10	Servicios financieros y empresariales ³	403,2777331
+2007-2	11	Servicios comunales sociales y personales	9,90448486
+2007-2	13	Total actividades económicas	2228,736352
+2007-3	1	Sector petrolero	709,7600252
+2007-3	3	Agricultura, caza, silvicultura y pesca	11,4795703
+2007-3	4	Explotación de minas y canteras (incluye carbón)	530,9139171
+2007-3	5	Industrias manufactureras	391,5464592
+2007-3	6	Electricidad, gas y agua	13,89452209
+2007-3	7	Construcción	55,90435576
+2007-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	96,02331724
+2007-3	9	Transportes, almacenamiento y comunicaciones	121,2409397
+2007-3	10	Servicios financieros y empresariales ³	386,1809698
+2007-3	11	Servicios comunales sociales y personales	8,784562407
+2007-3	13	Total actividades económicas	2325,728639
+2007-4	1	Sector petrolero	678,6203563
+2007-4	3	Agricultura, caza, silvicultura y pesca	9,372285973
+2007-4	4	Explotación de minas y canteras (incluye carbón)	631,1166468
+2007-4	5	Industrias manufactureras	285,9662323
+2007-4	6	Electricidad, gas y agua	-120,7717241
+2007-4	7	Construcción	56,43992726
+2007-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	162,8247424
+2007-4	9	Transportes, almacenamiento y comunicaciones	167,0806858
+2007-4	10	Servicios financieros y empresariales ³	420,3542603
+2007-4	11	Servicios comunales sociales y personales	14,01428848
+2007-4	13	Total actividades económicas	2305,017702
+2008-1	1	Sector petrolero	635,485575
+2008-1	3	Agricultura, caza, silvicultura y pesca	6,914864901
+2008-1	4	Explotación de minas y canteras (incluye carbón)	637,8012883
+2008-1	5	Industrias manufactureras	309,2068634
+2008-1	6	Electricidad, gas y agua	11,40115987
+2008-1	7	Construcción	79,94567543
+2008-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	444,4851829
+2008-1	9	Transportes, almacenamiento y comunicaciones	324,5750478
+2008-1	10	Servicios financieros y empresariales ³	254,2012753
+2008-1	11	Servicios comunales sociales y personales	13,52078662
+2008-1	13	Total actividades económicas	2717,537719
+2008-2	1	Sector petrolero	1074,842086
+2008-2	3	Agricultura, caza, silvicultura y pesca	12,42822455
+2008-2	4	Explotación de minas y canteras (incluye carbón)	109,5430221
+2008-2	5	Industrias manufactureras	575,4957962
+2008-2	6	Electricidad, gas y agua	44,91917506
+2008-2	7	Construcción	96,74821278
+2008-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	142,2533352
+2008-2	9	Transportes, almacenamiento y comunicaciones	127,2177644
+2008-2	10	Servicios financieros y empresariales ³	144,5114786
+2008-2	11	Servicios comunales sociales y personales	18,40682036
+2008-2	13	Total actividades económicas	2346,365915
+2008-3	1	Sector petrolero	608,7601354
+2008-3	3	Agricultura, caza, silvicultura y pesca	8,77576431
+2008-3	4	Explotación de minas y canteras (incluye carbón)	664,1122857
+2008-3	5	Industrias manufactureras	399,6135963
+2008-3	6	Electricidad, gas y agua	49,08677997
+2008-3	7	Construcción	131,7211622
+2008-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	201,1902979
+2008-3	9	Transportes, almacenamiento y comunicaciones	212,3699715
+2008-3	10	Servicios financieros y empresariales ³	295,7064748
+2008-3	11	Servicios comunales sociales y personales	26,63327172
+2008-3	13	Total actividades económicas	2597,96974
+2008-4	1	Sector petrolero	1030,38446
+2008-4	3	Agricultura, caza, silvicultura y pesca	8,226257017
+2008-4	4	Explotación de minas y canteras (incluye carbón)	378,4563502
+2008-4	5	Industrias manufactureras	411,5616478
+2008-4	6	Electricidad, gas y agua	50,84672977
+2008-4	7	Construcción	78,77566879
+2008-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	229,6356098
+2008-4	9	Transportes, almacenamiento y comunicaciones	313,5668687
+2008-4	10	Servicios financieros y empresariales ³	388,4726663
+2008-4	11	Servicios comunales sociales y personales	12,35616372
+2008-4	13	Total actividades económicas	2902,282422
+2009-1	1	Sector petrolero	637,6771763
+2009-1	3	Agricultura, caza, silvicultura y pesca	4,319805956
+2009-1	4	Explotación de minas y canteras (incluye carbón)	411,9912325
+2009-1	5	Industrias manufactureras	430,6108267
+2009-1	6	Electricidad, gas y agua	39,77208834
+2009-1	7	Construcción	49,16649807
+2009-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	71,76239226
+2009-1	9	Transportes, almacenamiento y comunicaciones	171,541382
+2009-1	10	Servicios financieros y empresariales ³	457,6173366
+2009-1	11	Servicios comunales sociales y personales	15,44117418
+2009-1	13	Total actividades económicas	2289,899913
+2009-2	1	Sector petrolero	977,5671008
+2009-2	3	Agricultura, caza, silvicultura y pesca	2,900193937
+2009-2	4	Explotación de minas y canteras (incluye carbón)	1001,442984
+2009-2	5	Industrias manufactureras	225,6041135
+2009-2	6	Electricidad, gas y agua	31,08342408
+2009-2	7	Construcción	49,75787101
+2009-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	147,7233875
+2009-2	9	Transportes, almacenamiento y comunicaciones	156,3052492
+2009-2	10	Servicios financieros y empresariales ³	182,8907481
+2009-2	11	Servicios comunales sociales y personales	14,41336054
+2009-2	13	Total actividades económicas	2789,688433
+2009-3	1	Sector petrolero	631,5374116
+2009-3	3	Agricultura, caza, silvicultura y pesca	1,744736935
+2009-3	4	Explotación de minas y canteras (incluye carbón)	728,1135393
+2009-3	5	Industrias manufactureras	315,8745772
+2009-3	6	Electricidad, gas y agua	61,62868053
+2009-3	7	Construcción	63,49189818
+2009-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	132,6728337
+2009-3	9	Transportes, almacenamiento y comunicaciones	51,4008294
+2009-3	10	Servicios financieros y empresariales ³	-68,94351063
+2009-3	11	Servicios comunales sociales y personales	41,56903171
+2009-3	13	Total actividades económicas	1959,090028
+2009-4	1	Sector petrolero	390,5990284
+2009-4	3	Agricultura, caza, silvicultura y pesca	9,354725976
+2009-4	4	Explotación de minas y canteras (incluye carbón)	872,4779293
+2009-4	5	Industrias manufactureras	287,4727313
+2009-4	6	Electricidad, gas y agua	-1124,019922
+2009-4	7	Construcción	88,82067443
+2009-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	233,8584893
+2009-4	9	Transportes, almacenamiento y comunicaciones	-52,98401425
+2009-4	10	Servicios financieros y empresariales ³	275,0627183
+2009-4	11	Servicios comunales sociales y personales	15,42544209
+2009-4	13	Total actividades económicas	996,0678031
+2010-1	1	Sector petrolero	348,5961315
+2010-1	3	Agricultura, caza, silvicultura y pesca	2,876452251
+2010-1	4	Explotación de minas y canteras (incluye carbón)	593,7587788
+2010-1	5	Industrias manufactureras	120,5597069
+2010-1	6	Electricidad, gas y agua	27,90825519
+2010-1	7	Construcción	63,39980979
+2010-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	10,71045576
+2010-1	9	Transportes, almacenamiento y comunicaciones	57,32482185
+2010-1	10	Servicios financieros y empresariales ³	-31,25148162
+2010-1	11	Servicios comunales sociales y personales	11,66737853
+2010-1	13	Total actividades económicas	1205,550309
+2010-2	1	Sector petrolero	745,19385
+2010-2	3	Agricultura, caza, silvicultura y pesca	17,16066599
+2010-2	4	Explotación de minas y canteras (incluye carbón)	307,3692978
+2010-2	5	Industrias manufactureras	288,7775465
+2010-2	6	Electricidad, gas y agua	-135,806742
+2010-2	7	Construcción	59,84689648
+2010-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	77,87374561
+2010-2	9	Transportes, almacenamiento y comunicaciones	96,71866158
+2010-2	10	Servicios financieros y empresariales ³	453,3923838
+2010-2	11	Servicios comunales sociales y personales	34,3703101
+2010-2	13	Total actividades económicas	1944,896616
+2010-3	1	Sector petrolero	980,7827001
+2010-3	3	Agricultura, caza, silvicultura y pesca	23,77158613
+2010-3	4	Explotación de minas y canteras (incluye carbón)	591,8849159
+2010-3	5	Industrias manufactureras	185,4723619
+2010-3	6	Electricidad, gas y agua	65,58793967
+2010-3	7	Construcción	88,10043627
+2010-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	97,76076036
+2010-3	9	Transportes, almacenamiento y comunicaciones	25,07109592
+2010-3	10	Servicios financieros y empresariales ³	264,3515246
+2010-3	11	Servicios comunales sociales y personales	25,82636263
+2010-3	13	Total actividades económicas	2348,609683
+2010-4	1	Sector petrolero	1005,201892
+2010-4	3	Agricultura, caza, silvicultura y pesca	14,3310142
+2010-4	4	Explotación de minas y canteras (incluye carbón)	345,518921
+2010-4	5	Industrias manufactureras	-385,0176987
+2010-4	6	Electricidad, gas y agua	84,81918968
+2010-4	7	Construcción	90,50040089
+2010-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	34,93048298
+2010-4	9	Transportes, almacenamiento y comunicaciones	-535,1780987
+2010-4	10	Servicios financieros y empresariales ³	229,6944373
+2010-4	11	Servicios comunales sociales y personales	46,13246373
+2010-4	13	Total actividades económicas	930,9330048
+2011-1	1	Sector petrolero	950,8595504
+2011-1	3	Agricultura, caza, silvicultura y pesca	19,23685294
+2011-1	4	Explotación de minas y canteras (incluye carbón)	601,7772166
+2011-1	5	Industrias manufactureras	226,7435613
+2011-1	6	Electricidad, gas y agua	109,467247
+2011-1	7	Construcción	118,9115169
+2011-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	299,7059494
+2011-1	9	Transportes, almacenamiento y comunicaciones	672,5436243
+2011-1	10	Servicios financieros y empresariales ³	114,8276925
+2011-1	11	Servicios comunales sociales y personales	-0,752255496
+2011-1	13	Total actividades económicas	3113,320956
+2011-2	1	Sector petrolero	1498,451
+2011-2	3	Agricultura, caza, silvicultura y pesca	57,05952521
+2011-2	4	Explotación de minas y canteras (incluye carbón)	598,36713
+2011-2	5	Industrias manufactureras	241,4336297
+2011-2	6	Electricidad, gas y agua	136,6382004
+2011-2	7	Construcción	116,3420872
+2011-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	226,3446715
+2011-2	9	Transportes, almacenamiento y comunicaciones	272,9927439
+2011-2	10	Servicios financieros y empresariales ³	24,75141085
+2011-2	11	Servicios comunales sociales y personales	-68,68519466
+2011-2	13	Total actividades económicas	3103,695204
+2011-3	1	Sector petrolero	1003,805242
+2011-3	3	Agricultura, caza, silvicultura y pesca	33,99057148
+2011-3	4	Explotación de minas y canteras (incluye carbón)	451,8614798
+2011-3	5	Industrias manufactureras	409,3802928
+2011-3	6	Electricidad, gas y agua	57,64539649
+2011-3	7	Construcción	121,1462899
+2011-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	1088,131865
+2011-3	9	Transportes, almacenamiento y comunicaciones	341,0563692
+2011-3	10	Servicios financieros y empresariales ³	363,6491443
+2011-3	11	Servicios comunales sociales y personales	-94,30074685
+2011-3	13	Total actividades económicas	3776,365903
+2011-4	1	Sector petrolero	1214,35005
+2011-4	3	Agricultura, caza, silvicultura y pesca	33,79594413
+2011-4	4	Explotación de minas y canteras (incluye carbón)	772,1838966
+2011-4	5	Industrias manufactureras	230,7783741
+2011-4	6	Electricidad, gas y agua	77,02725117
+2011-4	7	Construcción	87,98994228
+2011-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	818,0798073
+2011-4	9	Transportes, almacenamiento y comunicaciones	462,3581331
+2011-4	10	Servicios financieros y empresariales ³	970,0482889
+2011-4	11	Servicios comunales sociales y personales	-12,94511244
+2011-4	13	Total actividades económicas	4653,666575
+2012-1	1	Sector petrolero	992,907271
+2012-1	3	Agricultura, caza, silvicultura y pesca	16,18487631
+2012-1	4	Explotación de minas y canteras (incluye carbón)	450,2835569
+2012-1	5	Industrias manufactureras	436,2741653
+2012-1	6	Electricidad, gas y agua	311,2890237
+2012-1	7	Construcción	154,4407491
+2012-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	532,8128745
+2012-1	9	Transportes, almacenamiento y comunicaciones	484,922211
+2012-1	10	Servicios financieros y empresariales ³	52,20968192
+2012-1	11	Servicios comunales sociales y personales	102,0089611
+2012-1	13	Total actividades económicas	3533,333371
+2012-2	1	Sector petrolero	2446,202844
+2012-2	3	Agricultura, caza, silvicultura y pesca	5,063866668
+2012-2	4	Explotación de minas y canteras (incluye carbón)	883,923988
+2012-2	5	Industrias manufactureras	112,2023636
+2012-2	6	Electricidad, gas y agua	84,41841583
+2012-2	7	Construcción	62,63294688
+2012-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	268,7741204
+2012-2	9	Transportes, almacenamiento y comunicaciones	128,7225749
+2012-2	10	Servicios financieros y empresariales ³	174,9935225
+2012-2	11	Servicios comunales sociales y personales	66,22437185
+2012-2	13	Total actividades económicas	4233,159015
+2012-3	1	Sector petrolero	970,2761325
+2012-3	3	Agricultura, caza, silvicultura y pesca	20,12757946
+2012-3	4	Explotación de minas y canteras (incluye carbón)	752,1498724
+2012-3	5	Industrias manufactureras	560,3713251
+2012-3	6	Electricidad, gas y agua	151,0856549
+2012-3	7	Construcción	86,68609758
+2012-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	250,0527816
+2012-3	9	Transportes, almacenamiento y comunicaciones	23,94393286
+2012-3	10	Servicios financieros y empresariales ³	416,3231124
+2012-3	11	Servicios comunales sociales y personales	96,74241993
+2012-3	13	Total actividades económicas	3327,758909
+2012-4	1	Sector petrolero	1041,551027
+2012-4	3	Agricultura, caza, silvicultura y pesca	-24,75260413
+2012-4	4	Explotación de minas y canteras (incluye carbón)	417,9808709
+2012-4	5	Industrias manufactureras	815,8841057
+2012-4	6	Electricidad, gas y agua	85,51483392
+2012-4	7	Construcción	97,7165668
+2012-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	323,559815
+2012-4	9	Transportes, almacenamiento y comunicaciones	549,0792818
+2012-4	10	Servicios financieros y empresariales ³	552,284176
+2012-4	11	Servicios comunales sociales y personales	86,90977126
+2012-4	13	Total actividades económicas	3945,727845
+2013-1	1	Sector petrolero	967,5249428
+2013-1	3	Agricultura, caza, silvicultura y pesca	38,15670449
+2013-1	4	Explotación de minas y canteras (incluye carbón)	929,5262808
+2013-1	5	Industrias manufactureras	304,1668185
+2013-1	6	Electricidad, gas y agua	65,33954303
+2013-1	7	Construcción	26,10320923
+2013-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	460,1628499
+2013-1	9	Transportes, almacenamiento y comunicaciones	325,8305538
+2013-1	10	Servicios financieros y empresariales ³	475,1499141
+2013-1	11	Servicios comunales sociales y personales	78,33066534
+2013-1	13	Total actividades económicas	3670,291482
+2013-2	1	Sector petrolero	2010,110104
+2013-2	3	Agricultura, caza, silvicultura y pesca	57,98852664
+2013-2	4	Explotación de minas y canteras (incluye carbón)	821,2415887
+2013-2	5	Industrias manufactureras	199,8671419
+2013-2	6	Electricidad, gas y agua	136,6509235
+2013-2	7	Construcción	66,03120287
+2013-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	164,5591787
+2013-2	9	Transportes, almacenamiento y comunicaciones	321,7728359
+2013-2	10	Servicios financieros y empresariales ³	135,476794
+2013-2	11	Servicios comunales sociales y personales	101,3626289
+2013-2	13	Total actividades económicas	4015,060925
+2013-3	1	Sector petrolero	982,5193991
+2013-3	3	Agricultura, caza, silvicultura y pesca	67,37945413
+2013-3	4	Explotación de minas y canteras (incluye carbón)	772,3350217
+2013-3	5	Industrias manufactureras	1019,254732
+2013-3	6	Electricidad, gas y agua	127,0640909
+2013-3	7	Construcción	147,1782069
+2013-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	205,2569332
+2013-3	9	Transportes, almacenamiento y comunicaciones	538,6731176
+2013-3	10	Servicios financieros y empresariales ³	755,3457277
+2013-3	11	Servicios comunales sociales y personales	97,96777518
+2013-3	13	Total actividades económicas	4712,974458
+2013-4	1	Sector petrolero	1151,349412
+2013-4	3	Agricultura, caza, silvicultura y pesca	129,5110633
+2013-4	4	Explotación de minas y canteras (incluye carbón)	585,0377532
+2013-4	5	Industrias manufactureras	614,3889014
+2013-4	6	Electricidad, gas y agua	64,55548014
+2013-4	7	Construcción	118,525833
+2013-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	344,9599961
+2013-4	9	Transportes, almacenamiento y comunicaciones	231,431704
+2013-4	10	Servicios financieros y empresariales ³	522,8501318
+2013-4	11	Servicios comunales sociales y personales	49,48187572
+2013-4	13	Total actividades económicas	3812,092151
+2014-1	1	Sector petrolero	815,525955
+2014-1	3	Agricultura, caza, silvicultura y pesca	32,9367193
+2014-1	4	Explotación de minas y canteras (incluye carbón)	951,2717182
+2014-1	5	Industrias manufactureras	614,7942881
+2014-1	6	Electricidad, gas y agua	36,04679124
+2014-1	7	Construcción	134,651406
+2014-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	22,52838034
+2014-1	9	Transportes, almacenamiento y comunicaciones	525,6776511
+2014-1	10	Servicios financieros y empresariales ³	592,4951715
+2014-1	11	Servicios comunales sociales y personales	63,99882256
+2014-1	13	Total actividades económicas	3789,926903
+2014-2	1	Sector petrolero	1919,581362
+2014-2	3	Agricultura, caza, silvicultura y pesca	29,67187321
+2014-2	4	Explotación de minas y canteras (incluye carbón)	906,8117224
+2014-2	5	Industrias manufactureras	517,7316139
+2014-2	6	Electricidad, gas y agua	137,3298613
+2014-2	7	Construcción	153,015037
+2014-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	143,0972837
+2014-2	9	Transportes, almacenamiento y comunicaciones	420,6700277
+2014-2	10	Servicios financieros y empresariales ³	639,6535505
+2014-2	11	Servicios comunales sociales y personales	77,84645417
+2014-2	13	Total actividades económicas	4945,408786
+2014-3	1	Sector petrolero	1093,631923
+2014-3	3	Agricultura, caza, silvicultura y pesca	110,0708901
+2014-3	4	Explotación de minas y canteras (incluye carbón)	279,4104827
+2014-3	5	Industrias manufactureras	783,4902414
+2014-3	6	Electricidad, gas y agua	193,7715941
+2014-3	7	Construcción	178,3572183
+2014-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	138,1954195
+2014-3	9	Transportes, almacenamiento y comunicaciones	436,1639819
+2014-3	10	Servicios financieros y empresariales ³	507,6977677
+2014-3	11	Servicios comunales sociales y personales	-47,60913317
+2014-3	13	Total actividades económicas	3673,180386
+2014-4	1	Sector petrolero	903,0840492
+2014-4	3	Agricultura, caza, silvicultura y pesca	21,34898499
+2014-4	4	Explotación de minas y canteras (incluye carbón)	27,75500341
+2014-4	5	Industrias manufactureras	909,9825568
+2014-4	6	Electricidad, gas y agua	96,10436491
+2014-4	7	Construcción	181,8008038
+2014-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	30,39486944
+2014-4	9	Transportes, almacenamiento y comunicaciones	597,9972585
+2014-4	10	Servicios financieros y empresariales ³	903,095451
+2014-4	11	Servicios comunales sociales y personales	88,62229725
+2014-4	13	Total actividades económicas	3760,185639
+2015-1	1	Sector petrolero	1036,246242
+2015-1	3	Agricultura, caza, silvicultura y pesca	48,89633467
+2015-1	4	Explotación de minas y canteras (incluye carbón)	464,546166
+2015-1	5	Industrias manufactureras	807,157608
+2015-1	6	Electricidad, gas y agua	47,14322751
+2015-1	7	Construcción	68,51518352
+2015-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	503,80225
+2015-1	9	Transportes, almacenamiento y comunicaciones	-312,8689911
+2015-1	10	Servicios financieros y empresariales ³	510,1610331
+2015-1	11	Servicios comunales sociales y personales	74,94429486
+2015-1	13	Total actividades económicas	3248,543349
+2015-2	1	Sector petrolero	1109,51929
+2015-2	3	Agricultura, caza, silvicultura y pesca	61,92670176
+2015-2	4	Explotación de minas y canteras (incluye carbón)	282,6952577
+2015-2	5	Industrias manufactureras	753,4307552
+2015-2	6	Electricidad, gas y agua	49,96761905
+2015-2	7	Construcción	217,8105497
+2015-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	437,3498737
+2015-2	9	Transportes, almacenamiento y comunicaciones	280,7243679
+2015-2	10	Servicios financieros y empresariales ³	798,9645478
+2015-2	11	Servicios comunales sociales y personales	75,76627996
+2015-2	13	Total actividades económicas	4068,155243
+2015-3	1	Sector petrolero	687,5301035
+2015-3	3	Agricultura, caza, silvicultura y pesca	27,0027886
+2015-3	4	Explotación de minas y canteras (incluye carbón)	-101,1515911
+2015-3	5	Industrias manufactureras	582,2099382
+2015-3	6	Electricidad, gas y agua	52,32055888
+2015-3	7	Construcción	200,9833727
+2015-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	322,3783455
+2015-3	9	Transportes, almacenamiento y comunicaciones	202,8353042
+2015-3	10	Servicios financieros y empresariales ³	177,4419206
+2015-3	11	Servicios comunales sociales y personales	45,60767843
+2015-3	13	Total actividades económicas	2197,158419
+2015-4	1	Sector petrolero	-266,8521824
+2015-4	3	Agricultura, caza, silvicultura y pesca	56,01308831
+2015-4	4	Explotación de minas y canteras (incluye carbón)	-141,9084103
+2015-4	5	Industrias manufactureras	495,3586996
+2015-4	6	Electricidad, gas y agua	124,8706586
+2015-4	7	Construcción	205,5930569
+2015-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	287,0153668
+2015-4	9	Transportes, almacenamiento y comunicaciones	559,1974794
+2015-4	10	Servicios financieros y empresariales ³	748,7984595
+2015-4	11	Servicios comunales sociales y personales	38,58941806
+2015-4	13	Total actividades económicas	2106,675634
+2016-1	1	Sector petrolero	433,1840022
+2016-1	3	Agricultura, caza, silvicultura y pesca	56,52060236
+2016-1	4	Explotación de minas y canteras (incluye carbón)	-17,57071391
+2016-1	5	Industrias manufactureras	408,0894749
+2016-1	6	Electricidad, gas y agua	2413,646585
+2016-1	7	Construcción	132,8917658
+2016-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	140,2007513
+2016-1	9	Transportes, almacenamiento y comunicaciones	627,1539605
+2016-1	10	Servicios financieros y empresariales ³	403,6563232
+2016-1	11	Servicios comunales sociales y personales	83,58777069
+2016-1	13	Total actividades económicas	4681,360522
+2016-2	1	Sector petrolero	941,6523147
+2016-2	3	Agricultura, caza, silvicultura y pesca	70,14682731
+2016-2	4	Explotación de minas y canteras (incluye carbón)	4,358900836
+2016-2	5	Industrias manufactureras	552,5308004
+2016-2	6	Electricidad, gas y agua	566,1809701
+2016-2	7	Construcción	166,2132373
+2016-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	239,2038578
+2016-2	9	Transportes, almacenamiento y comunicaciones	326,7308952
+2016-2	10	Servicios financieros y empresariales ³	680,5065185
+2016-2	11	Servicios comunales sociales y personales	109,460311
+2016-2	13	Total actividades económicas	3656,984633
+2016-3	1	Sector petrolero	383,0030213
+2016-3	3	Agricultura, caza, silvicultura y pesca	70,36561306
+2016-3	4	Explotación de minas y canteras (incluye carbón)	-43,07014046
+2016-3	5	Industrias manufactureras	528,0949159
+2016-3	6	Electricidad, gas y agua	539,7084307
+2016-3	7	Construcción	164,3560539
+2016-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	72,11925137
+2016-3	9	Transportes, almacenamiento y comunicaciones	66,10620238
+2016-3	10	Servicios financieros y empresariales ³	448,9819749
+2016-3	11	Servicios comunales sociales y personales	14,20869545
+2016-3	13	Total actividades económicas	2243,874019
+2016-4	1	Sector petrolero	628,401834
+2016-4	3	Agricultura, caza, silvicultura y pesca	94,51254434
+2016-4	4	Explotación de minas y canteras (incluye carbón)	-120,732673
+2016-4	5	Industrias manufactureras	355,0560038
+2016-4	6	Electricidad, gas y agua	141,0607594
+2016-4	7	Construcción	149,5732993
+2016-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	455,7832653
+2016-4	9	Transportes, almacenamiento y comunicaciones	338,2014735
+2016-4	10	Servicios financieros y empresariales ³	1107,369795
+2016-4	11	Servicios comunales sociales y personales	126,4922454
+2016-4	13	Total actividades económicas	3275,718547
+2017-1	1	Sector petrolero	431,3719958
+2017-1	3	Agricultura, caza, silvicultura y pesca	59,17614784
+2017-1	4	Explotación de minas y canteras (incluye carbón)	88,68352842
+2017-1	5	Industrias manufactureras	782,1157206
+2017-1	6	Electricidad, gas y agua	102,5541185
+2017-1	7	Construcción	140,7539357
+2017-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	168,7902641
+2017-1	9	Transportes, almacenamiento y comunicaciones	177,20116
+2017-1	10	Servicios financieros y empresariales ³	445,3820194
+2017-1	11	Servicios comunales sociales y personales	63,08203938
+2017-1	13	Total actividades económicas	2459,11093
+2017-2	1	Sector petrolero	996,5312615
+2017-2	3	Agricultura, caza, silvicultura y pesca	54,32971422
+2017-2	4	Explotación de minas y canteras (incluye carbón)	381,346456
+2017-2	5	Industrias manufactureras	911,0676417
+2017-2	6	Electricidad, gas y agua	168,4544141
+2017-2	7	Construcción	-132,2037692
+2017-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	152,8122701
+2017-2	9	Transportes, almacenamiento y comunicaciones	-179,679993
+2017-2	10	Servicios financieros y empresariales ³	-20,83000431
+2017-2	11	Servicios comunales sociales y personales	160,338752
+2017-2	13	Total actividades económicas	2492,166743
+2017-3	1	Sector petrolero	408,0091163
+2017-3	3	Agricultura, caza, silvicultura y pesca	48,80248116
+2017-3	4	Explotación de minas y canteras (incluye carbón)	179,7293014
+2017-3	5	Industrias manufactureras	389,2247866
+2017-3	6	Electricidad, gas y agua	112,9420701
+2017-3	7	Construcción	157,2497396
+2017-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	129,7055592
+2017-3	9	Transportes, almacenamiento y comunicaciones	2879,14196
+2017-3	10	Servicios financieros y empresariales ³	579,2219826
+2017-3	11	Servicios comunales sociales y personales	72,67651024
+2017-3	13	Total actividades económicas	4956,703507
+2017-4	1	Sector petrolero	1270,376436
+2017-4	3	Agricultura, caza, silvicultura y pesca	51,56223316
+2017-4	4	Explotación de minas y canteras (incluye carbón)	369,2457022
+2017-4	5	Industrias manufactureras	285,624682
+2017-4	6	Electricidad, gas y agua	28,60160226
+2017-4	7	Construcción	132,4815742
+2017-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	242,7831335
+2017-4	9	Transportes, almacenamiento y comunicaciones	417,6853536
+2017-4	10	Servicios financieros y empresariales ³	904,1251009
+2017-4	11	Servicios comunales sociales y personales	90,41344742
+2017-4	13	Total actividades económicas	3792,899265
+2018-1	1	Sector petrolero	482,9517387
+2018-1	3	Agricultura, caza, silvicultura y pesca	32,25119414
+2018-1	4	Explotación de minas y canteras (incluye carbón)	273,7222461
+2018-1	5	Industrias manufactureras	167,2868466
+2018-1	6	Electricidad, gas y agua	64,64578275
+2018-1	7	Construcción	137,2704397
+2018-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	223,755172
+2018-1	9	Transportes, almacenamiento y comunicaciones	26,93829239
+2018-1	10	Servicios financieros y empresariales ³	482,3318304
+2018-1	11	Servicios comunales sociales y personales	91,17067803
+2018-1	13	Total actividades económicas	1982,324221
+2018-2	1	Sector petrolero	860,9913706
+2018-2	3	Agricultura, caza, silvicultura y pesca	68,27731772
+2018-2	4	Explotación de minas y canteras (incluye carbón)	499,5897867
+2018-2	5	Industrias manufactureras	756,3485328
+2018-2	6	Electricidad, gas y agua	-244,9886942
+2018-2	7	Construcción	56,73720031
+2018-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	333,1458859
+2018-2	9	Transportes, almacenamiento y comunicaciones	582,8372918
+2018-2	10	Servicios financieros y empresariales ³	764,8758284
+2018-2	11	Servicios comunales sociales y personales	95,12968619
+2018-2	13	Total actividades económicas	3772,944206
+2018-3	1	Sector petrolero	176,7481633
+2018-3	3	Agricultura, caza, silvicultura y pesca	58,19989832
+2018-3	4	Explotación de minas y canteras (incluye carbón)	322,3860244
+2018-3	5	Industrias manufactureras	-236,7697049
+2018-3	6	Electricidad, gas y agua	125,7050423
+2018-3	7	Construcción	169,9912807
+2018-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	288,7334254
+2018-3	9	Transportes, almacenamiento y comunicaciones	537,4211891
+2018-3	10	Servicios financieros y empresariales ³	1186,65061
+2018-3	11	Servicios comunales sociales y personales	75,33689587
+2018-3	13	Total actividades económicas	2704,402825
+2018-4	1	Sector petrolero	1019,342215
+2018-4	3	Agricultura, caza, silvicultura y pesca	45,52922277
+2018-4	4	Explotación de minas y canteras (incluye carbón)	91,21831404
+2018-4	5	Industrias manufactureras	622,9348262
+2018-4	6	Electricidad, gas y agua	195,7170198
+2018-4	7	Construcción	122,202917
+2018-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	300,661866
+2018-4	9	Transportes, almacenamiento y comunicaciones	402,8478079
+2018-4	10	Servicios financieros y empresariales ³	-76,31984931
+2018-4	11	Servicios comunales sociales y personales	114,887183
+2018-4	13	Total actividades económicas	2839,021522
+2019-1	1	Sector petrolero	834,899245
+2019-1	3	Agricultura, caza, silvicultura y pesca	73,79305403
+2019-1	4	Explotación de minas y canteras (incluye carbón)	505,9313764
+2019-1	5	Industrias manufactureras	451,1021414
+2019-1	6	Electricidad, gas y agua	174,2046296
+2019-1	7	Construcción	152,344401
+2019-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	274,6505285
+2019-1	9	Transportes, almacenamiento y comunicaciones	219,2563649
+2019-1	10	Servicios financieros y empresariales ³	563,039275
+2019-1	11	Servicios comunales sociales y personales	144,4808763
+2019-1	13	Total actividades económicas	3393,701892
+2019-2	1	Sector petrolero	733,4074974
+2019-2	3	Agricultura, caza, silvicultura y pesca	84,49641175
+2019-2	4	Explotación de minas y canteras (incluye carbón)	652,9921
+2019-2	5	Industrias manufactureras	519,1900581
+2019-2	6	Electricidad, gas y agua	44,19435081
+2019-2	7	Construcción	142,086766
+2019-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	357,203643
+2019-2	9	Transportes, almacenamiento y comunicaciones	284,9948275
+2019-2	10	Servicios financieros y empresariales ³	1090,180622
+2019-2	11	Servicios comunales sociales y personales	181,4094146
+2019-2	13	Total actividades económicas	4090,155691
+2019-3	1	Sector petrolero	716,8652515
+2019-3	3	Agricultura, caza, silvicultura y pesca	120,4199715
+2019-3	4	Explotación de minas y canteras (incluye carbón)	73,3091509
+2019-3	5	Industrias manufactureras	286,8311627
+2019-3	6	Electricidad, gas y agua	71,76139904
+2019-3	7	Construcción	298,177479
+2019-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	217,2969723
+2019-3	9	Transportes, almacenamiento y comunicaciones	327,3513649
+2019-3	10	Servicios financieros y empresariales ³	976,5076092
+2019-3	11	Servicios comunales sociales y personales	74,57278573
+2019-3	13	Total actividades económicas	3163,093147
+2019-4	1	Sector petrolero	470,2806825
+2019-4	3	Agricultura, caza, silvicultura y pesca	86,24554077
+2019-4	4	Explotación de minas y canteras (incluye carbón)	129,305234
+2019-4	5	Industrias manufactureras	242,1231874
+2019-4	6	Electricidad, gas y agua	25,87253755
+2019-4	7	Construcción	288,8082953
+2019-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	1276,155783
+2019-4	9	Transportes, almacenamiento y comunicaciones	174,5342906
+2019-4	10	Servicios financieros y empresariales ³	502,5659586
+2019-4	11	Servicios comunales sociales y personales	146,3117888
+2019-4	13	Total actividades económicas	3342,203299
+2020-1	1	Sector petrolero	471,7988202
+2020-1	3	Agricultura, caza, silvicultura y pesca	62,38467501
+2020-1	4	Explotación de minas y canteras (incluye carbón)	348,2788831
+2020-1	5	Industrias manufactureras	307,0349256
+2020-1	6	Electricidad, gas y agua	660,6848969
+2020-1	7	Construcción	199,6941644
+2020-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	241,3099725
+2020-1	9	Transportes, almacenamiento y comunicaciones	138,8944727
+2020-1	10	Servicios financieros y empresariales ³	417,4178457
+2020-1	11	Servicios comunales sociales y personales	327,1010834
+2020-1	13	Total actividades económicas	3174,59974
+2020-2	1	Sector petrolero	226,6290778
+2020-2	3	Agricultura, caza, silvicultura y pesca	60,43458408
+2020-2	4	Explotación de minas y canteras (incluye carbón)	3,978040017
+2020-2	5	Industrias manufactureras	117,7414003
+2020-2	6	Electricidad, gas y agua	2,532299409
+2020-2	7	Construcción	107,5903089
+2020-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	237,1816377
+2020-2	9	Transportes, almacenamiento y comunicaciones	10,45819458
+2020-2	10	Servicios financieros y empresariales ³	396,5269163
+2020-2	11	Servicios comunales sociales y personales	208,3085709
+2020-2	13	Total actividades económicas	1371,38103
+2020-3	1	Sector petrolero	-104,9191455
+2020-3	3	Agricultura, caza, silvicultura y pesca	-2,28161178
+2020-3	4	Explotación de minas y canteras (incluye carbón)	-313,7749182
+2020-3	5	Industrias manufactureras	358,7797813
+2020-3	6	Electricidad, gas y agua	73,03378841
+2020-3	7	Construcción	73,18142228
+2020-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	153,9086175
+2020-3	9	Transportes, almacenamiento y comunicaciones	-130,1850758
+2020-3	10	Servicios financieros y empresariales ³	466,396172
+2020-3	11	Servicios comunales sociales y personales	269,8495828
+2020-3	13	Total actividades económicas	843,9886129
+2020-4	1	Sector petrolero	-136,1787093
+2020-4	3	Agricultura, caza, silvicultura y pesca	72,22350712
+2020-4	4	Explotación de minas y canteras (incluye carbón)	399,9395743
+2020-4	5	Industrias manufactureras	110,3881964
+2020-4	6	Electricidad, gas y agua	27,60073376
+2020-4	7	Construcción	28,81969133
+2020-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	214,1798085
+2020-4	9	Transportes, almacenamiento y comunicaciones	518,4676982
+2020-4	10	Servicios financieros y empresariales ³	640,1235073
+2020-4	11	Servicios comunales sociales y personales	193,0915941
+2020-4	13	Total actividades económicas	2068,655602
+2021-1	1	Sector petrolero	167,670572
+2021-1	3	Agricultura, caza, silvicultura y pesca	66,84609585
+2021-1	4	Explotación de minas y canteras (incluye carbón)	351,5953247
+2021-1	5	Industrias manufactureras	72,33121991
+2021-1	6	Electricidad, gas y agua	125,0546246
+2021-1	7	Construcción	82,68795809
+2021-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	190,0908423
+2021-1	9	Transportes, almacenamiento y comunicaciones	616,7339879
+2021-1	10	Servicios financieros y empresariales ³	465,358747
+2021-1	11	Servicios comunales sociales y personales	168,4840754
+2021-1	13	Total actividades económicas	2306,853448
+2021-2	1	Sector petrolero	206,1751299
+2021-2	3	Agricultura, caza, silvicultura y pesca	54,87363481
+2021-2	4	Explotación de minas y canteras (incluye carbón)	-172,0454574
+2021-2	5	Industrias manufactureras	251,9662404
+2021-2	6	Electricidad, gas y agua	313,3070937
+2021-2	7	Construcción	86,97099816
+2021-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	252,9838227
+2021-2	9	Transportes, almacenamiento y comunicaciones	300,6353481
+2021-2	10	Servicios financieros y empresariales ³	588,4600205
+2021-2	11	Servicios comunales sociales y personales	113,6973675
+2021-2	13	Total actividades económicas	1997,024199
+2021-3	1	Sector petrolero	103,272205
+2021-3	3	Agricultura, caza, silvicultura y pesca	71,29765492
+2021-3	4	Explotación de minas y canteras (incluye carbón)	-131,8297074
+2021-3	5	Industrias manufactureras	1054,137766
+2021-3	6	Electricidad, gas y agua	110,4453029
+2021-3	7	Construcción	99,81573978
+2021-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	265,7878745
+2021-3	9	Transportes, almacenamiento y comunicaciones	297,3118397
+2021-3	10	Servicios financieros y empresariales ³	690,5755628
+2021-3	11	Servicios comunales sociales y personales	146,1747112
+2021-3	13	Total actividades económicas	2706,98895
+2021-4	1	Sector petrolero	438,4990434
+2021-4	3	Agricultura, caza, silvicultura y pesca	88,10398061
+2021-4	4	Explotación de minas y canteras (incluye carbón)	186,873646
+2021-4	5	Industrias manufactureras	340,7654396
+2021-4	6	Electricidad, gas y agua	492,4624758
+2021-4	7	Construcción	28,18256943
+2021-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	248,4881444
+2021-4	9	Transportes, almacenamiento y comunicaciones	-81,86722092
+2021-4	10	Servicios financieros y empresariales ³	657,9764411
+2021-4	11	Servicios comunales sociales y personales	150,9841613
+2021-4	13	Total actividades económicas	2550,468681
+2022-1	1	Sector petrolero	524,6299764
+2022-1	3	Agricultura, caza, silvicultura y pesca	76,26843932
+2022-1	4	Explotación de minas y canteras (incluye carbón)	177,3099727
+2022-1	5	Industrias manufactureras	524,4934175
+2022-1	6	Electricidad, gas y agua	197,2312297
+2022-1	7	Construcción	82,56265525
+2022-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	225,8700224
+2022-1	9	Transportes, almacenamiento y comunicaciones	803,089256
+2022-1	10	Servicios financieros y empresariales ³	2174,265992
+2022-1	11	Servicios comunales sociales y personales	148,7680218
+2022-1	13	Total actividades económicas	4934,488983
+2022-2	1	Sector petrolero	1100,907422
+2022-2	3	Agricultura, caza, silvicultura y pesca	74,51662906
+2022-2	4	Explotación de minas y canteras (incluye carbón)	667,7488957
+2022-2	5	Industrias manufactureras	108,511745
+2022-2	6	Electricidad, gas y agua	346,1413922
+2022-2	7	Construcción	116,9712215
+2022-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	304,7612192
+2022-2	9	Transportes, almacenamiento y comunicaciones	231,5182456
+2022-2	10	Servicios financieros y empresariales ³	1951,250323
+2022-2	11	Servicios comunales sociales y personales	140,569442
+2022-2	13	Total actividades económicas	5042,896536
+2022-3	1	Sector petrolero	713,2445367
+2022-3	3	Agricultura, caza, silvicultura y pesca	59,42795175
+2022-3	4	Explotación de minas y canteras (incluye carbón)	21,08176132
+2022-3	5	Industrias manufactureras	468,783038
+2022-3	6	Electricidad, gas y agua	281,2248974
+2022-3	7	Construcción	106,3642531
+2022-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	546,9782654
+2022-3	9	Transportes, almacenamiento y comunicaciones	274,2845958
+2022-3	10	Servicios financieros y empresariales ³	639,3662325
+2022-3	11	Servicios comunales sociales y personales	2,462871125
+2022-3	13	Total actividades económicas	3113,218403
+2022-4	1	Sector petrolero	527,2304604
+2022-4	3	Agricultura, caza, silvicultura y pesca	115,3498997
+2022-4	4	Explotación de minas y canteras (incluye carbón)	322,6829346
+2022-4	5	Industrias manufactureras	406,2327712
+2022-4	6	Electricidad, gas y agua	143,5159808
+2022-4	7	Construcción	121,78672
+2022-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	464,1042755
+2022-4	9	Transportes, almacenamiento y comunicaciones	454,68005
+2022-4	10	Servicios financieros y empresariales ³	1292,481497
+2022-4	11	Servicios comunales sociales y personales	243,852839
+2022-4	13	Total actividades económicas	4091,917428
+2023-1	1	Sector petrolero	803,7640374
+2023-1	3	Agricultura, caza, silvicultura y pesca	70,0219002
+2023-1	4	Explotación de minas y canteras (incluye carbón)	531,7654172
+2023-1	5	Industrias manufactureras	576,0389419
+2023-1	6	Electricidad, gas y agua	252,8227214
+2023-1	7	Construcción	120,0245409
+2023-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	433,2498614
+2023-1	9	Transportes, almacenamiento y comunicaciones	357,0942106
+2023-1	10	Servicios financieros y empresariales ³	755,5489119
+2023-1	11	Servicios comunales sociales y personales	208,8818432
+2023-1	13	Total actividades económicas	4109,212386
+2023-2	1	Sector petrolero	973,4402338
+2023-2	3	Agricultura, caza, silvicultura y pesca	72,88869931
+2023-2	4	Explotación de minas y canteras (incluye carbón)	2249,283584
+2023-2	5	Industrias manufactureras	547,5876203
+2023-2	6	Electricidad, gas y agua	115,867472
+2023-2	7	Construcción	115,6634288
+2023-2	8	Comercio al por mayor y al por menor, restaurantes y hoteles	493,2863834
+2023-2	9	Transportes, almacenamiento y comunicaciones	319,4081272
+2023-2	10	Servicios financieros y empresariales ³	401,0805145
+2023-2	11	Servicios comunales sociales y personales	20,95580872
+2023-2	13	Total actividades económicas	5309,461872
+2023-3	1	Sector petrolero	594,0354289
+2023-3	3	Agricultura, caza, silvicultura y pesca	125,69362
+2023-3	4	Explotación de minas y canteras (incluye carbón)	337,2383118
+2023-3	5	Industrias manufactureras	762,6637648
+2023-3	6	Electricidad, gas y agua	284,2860002
+2023-3	7	Construcción	88,671022
+2023-3	8	Comercio al por mayor y al por menor, restaurantes y hoteles	371,9766004
+2023-3	9	Transportes, almacenamiento y comunicaciones	283,0601266
+2023-3	10	Servicios financieros y empresariales ³	991,6969681
+2023-3	11	Servicios comunales sociales y personales	106,2782223
+2023-3	13	Total actividades económicas	3945,600065
+2023-4	1	Sector petrolero	373,8484696
+2023-4	3	Agricultura, caza, silvicultura y pesca	89,19042674
+2023-4	4	Explotación de minas y canteras (incluye carbón)	181,4154205
+2023-4	5	Industrias manufactureras	1175,729617
+2023-4	6	Electricidad, gas y agua	258,2596788
+2023-4	7	Construcción	87,2043196
+2023-4	8	Comercio al por mayor y al por menor, restaurantes y hoteles	346,4410261
+2023-4	9	Transportes, almacenamiento y comunicaciones	202,009253
+2023-4	10	Servicios financieros y empresariales ³	974,2308596
+2023-4	11	Servicios comunales sociales y personales	94,25032811
+2023-4	13	Total actividades económicas	3782,579399
+2024-1	1	Sector petrolero	575,1311694
+2024-1	3	Agricultura, caza, silvicultura y pesca	64,53138886
+2024-1	4	Explotación de minas y canteras (incluye carbón)	693,6505119
+2024-1	5	Industrias manufactureras	335,9047277
+2024-1	6	Electricidad, gas y agua	176,8577741
+2024-1	7	Construcción	105,7351297
+2024-1	8	Comercio al por mayor y al por menor, restaurantes y hoteles	525,7404892
+2024-1	9	Transportes, almacenamiento y comunicaciones	344,3279496
+2024-1	10	Servicios financieros y empresariales ³	738,0477785
+2024-1	11	Servicios comunales sociales y personales	60,53084978
+2024-1	13	Total actividades económicas	3620,457769
